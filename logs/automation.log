@@ -1,36 +1,12 @@
-12:51:58.439 [main] INFO  testCases.TC_003_LoginDDT - ***** Starting TC_003_LoginDDTTest *****
-12:51:58.535 [main] INFO  testCases.TC_003_LoginDDT - ***** Clicked on MyAccount link  *****
-12:51:58.858 [main] INFO  testCases.TC_003_LoginDDT - ***** Clicked on login link  *****
-12:51:58.858 [main] INFO  testCases.TC_003_LoginDDT - ***** Entering email and password from excel file via dataprovider  *****
-12:51:59.435 [main] INFO  testCases.TC_003_LoginDDT - ***** Clicked on login button  *****
-12:51:59.924 [main] INFO  testCases.TC_003_LoginDDT - Login test passed
-12:51:59.924 [main] INFO  testCases.TC_003_LoginDDT - ***** Finished TC_003_LoginDDTTest *****
-12:51:59.930 [main] INFO  testCases.TC_003_LoginDDT - ***** Starting TC_003_LoginDDTTest *****
-12:51:59.995 [main] INFO  testCases.TC_003_LoginDDT - ***** Clicked on MyAccount link  *****
-12:52:00.315 [main] INFO  testCases.TC_003_LoginDDT - ***** Clicked on login link  *****
-12:52:00.315 [main] INFO  testCases.TC_003_LoginDDT - ***** Entering email and password from excel file via dataprovider  *****
-12:52:00.826 [main] INFO  testCases.TC_003_LoginDDT - ***** Clicked on login button  *****
-12:52:10.914 [main] INFO  testCases.TC_003_LoginDDT - ***** Finished TC_003_LoginDDTTest *****
-12:52:10.918 [main] INFO  testCases.TC_003_LoginDDT - ***** Starting TC_003_LoginDDTTest *****
-12:52:11.000 [main] INFO  testCases.TC_003_LoginDDT - ***** Clicked on MyAccount link  *****
-12:52:11.323 [main] INFO  testCases.TC_003_LoginDDT - ***** Clicked on login link  *****
-12:52:11.323 [main] INFO  testCases.TC_003_LoginDDT - ***** Entering email and password from excel file via dataprovider  *****
-12:52:11.798 [main] INFO  testCases.TC_003_LoginDDT - ***** Clicked on login button  *****
-12:52:21.862 [main] INFO  testCases.TC_003_LoginDDT - ***** Finished TC_003_LoginDDTTest *****
-12:52:21.870 [main] INFO  testCases.TC_003_LoginDDT - ***** Starting TC_003_LoginDDTTest *****
-12:52:21.969 [main] INFO  testCases.TC_003_LoginDDT - ***** Clicked on MyAccount link  *****
-12:52:22.278 [main] INFO  testCases.TC_003_LoginDDT - ***** Clicked on login link  *****
-12:52:22.278 [main] INFO  testCases.TC_003_LoginDDT - ***** Entering email and password from excel file via dataprovider  *****
-12:52:22.753 [main] INFO  testCases.TC_003_LoginDDT - ***** Clicked on login button  *****
-12:52:32.809 [main] INFO  testCases.TC_003_LoginDDT - ***** Finished TC_003_LoginDDTTest *****
-12:52:32.813 [main] INFO  testCases.TC_003_LoginDDT - ***** Starting TC_003_LoginDDTTest *****
-12:52:32.874 [main] INFO  testCases.TC_003_LoginDDT - ***** Clicked on MyAccount link  *****
-12:52:33.191 [main] INFO  testCases.TC_003_LoginDDT - ***** Clicked on login link  *****
-12:52:33.192 [main] INFO  testCases.TC_003_LoginDDT - ***** Entering email and password from excel file via dataprovider  *****
-12:52:33.786 [main] INFO  testCases.TC_003_LoginDDT - ***** Clicked on login button  *****
-12:52:34.229 [main] INFO  testCases.TC_003_LoginDDT - Login test passed
-12:52:34.229 [main] INFO  testCases.TC_003_LoginDDT - ***** Finished TC_003_LoginDDTTest *****
-12:52:36.353 [main] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
-12:52:37.105 [main] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
-12:52:39.309 [main] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
-12:52:40.848 [main] INFO  testCases.TC_005_AddToCartPageTest -  Finished TC_004_SearchProductTest 
+12:15:03.762 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed....
+12:15:03.771 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Finished TC_001_AccountRegistrationTest *****
+12:30:03.767 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting TC_001_AccountRegistrationTest *****
+12:30:13.858 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed....
+12:32:35.187 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting TC_001_AccountRegistrationTest *****
+12:32:35.532 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on MyAccount link *****
+12:32:35.923 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on Registration link *****
+12:32:35.924 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Entering customer details *****
+12:32:39.054 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on continue button *****
+12:32:39.093 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Validating expected confirmation message *****
+12:32:39.094 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed....
+12:32:39.097 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Finished TC_001_AccountRegistrationTest *****
