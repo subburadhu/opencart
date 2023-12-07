@@ -1,12 +1,5 @@
-12:15:03.762 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed....
-12:15:03.771 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Finished TC_001_AccountRegistrationTest *****
-12:30:03.767 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting TC_001_AccountRegistrationTest *****
-12:30:13.858 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed....
-12:32:35.187 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting TC_001_AccountRegistrationTest *****
-12:32:35.532 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on MyAccount link *****
-12:32:35.923 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on Registration link *****
-12:32:35.924 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Entering customer details *****
-12:32:39.054 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on continue button *****
-12:32:39.093 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Validating expected confirmation message *****
-12:32:39.094 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed....
-12:32:39.097 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Finished TC_001_AccountRegistrationTest *****
+17:54:11.487 [main] INFO  testCases.TC_003_LoginDDT - ***** Finished TC_003_LoginDDTTest *****
+17:54:13.383 [main] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+17:54:14.154 [main] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
+17:54:16.011 [main] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+17:54:17.497 [main] INFO  testCases.TC_005_AddToCartPageTest -  Finished TC_004_SearchProductTest 

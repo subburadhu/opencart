@@ -125,7 +125,7 @@ public class ExtentReportManager implements ITestListener {
 
 		//To send email with attachment
 		//sendEmail(sender email,sender password(encrypted),recipient email);
-		sendEmail("subra72@gmail.com","ukeq eozo hyaw zicx","subra72@gmail.com");
+		//sendEmail("abc@gmail.com","ukeq eozo hyaw zicx","abc@gmail.com");
 	}
 	
 	
